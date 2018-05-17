@@ -22,7 +22,12 @@ It will listen at `http://127.0.0.1:8080`
 $ curl http://127.0.0.1:8080/greet
 ```
 
+## Test
+
+```
+$ mvn clean test
+```
+
 ## TODO
 
-- Test the application
 - Add a downstream service called from the controller
