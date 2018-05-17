@@ -30,4 +30,3 @@ $ mvn clean test
 
 ## TODO
 
-- Add a downstream service called from the controller
