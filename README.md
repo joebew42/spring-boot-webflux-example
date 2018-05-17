@@ -30,3 +30,4 @@ $ mvn clean test
 
 ## TODO
 
+- add a `Mono.fromFuture` as an implementation detail of `GreetRepository`
